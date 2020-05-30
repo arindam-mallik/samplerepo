@@ -2,6 +2,7 @@ Hi Atindam
 Adding new contect
 Adding Fourth Content
 Adding develop br content
+Update from GUI
 [develop 16f5a00] develop br
  Committer: root <root@arindammallikgm.vt3udvkz5lpulmmzfezdledche.gx.internal.cloudapp.net>
 Your name and email address were configured automatically based
